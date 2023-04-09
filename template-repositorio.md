@@ -29,8 +29,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o <nome_do_projeto>, siga estas etapas:
 
-* Clique em code;
-* Clique em Download ZIP;
+* Clique em `Code`;
+* Clique em `Download ZIP`;
 * Extraia o projeto;
 
 ## ☕ Usando <nome_do_projeto>
