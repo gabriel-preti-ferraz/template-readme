@@ -32,17 +32,17 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Você instalou a versão mais recente de `<linguagem / dependência>`;
 * Você tem uma máquina `<Windows / Linux / Mac>`.
 
-## 🚀 Instalando <nome-do-projeto>
+## 🚀 Instalando nome-do-projeto
 
-Para instalar o <nome-do-projeto>, siga estas etapas:
+Para instalar o nome-do-projeto, siga estas etapas:
 
 * Clique em `Code`;
 * Clique em `Download ZIP`;
 * Extraia o projeto;
 
-## ☕ Usando <nome-do-projeto>
+## ☕ Usando nome-do-projeto
 
-Para usar <nome-do-projeto>, siga estas etapas:
+Para usar nome-do-projeto, siga estas etapas:
 
 * Lorem `Lorem`;
 * Lorem `Lorem`;
@@ -53,8 +53,8 @@ Para usar <nome-do-projeto>, siga estas etapas:
 
 Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
 
-## 📫 Contribuindo para <nome-do-projeto>
-Para contribuir com <nome-do-projeto>, siga estas etapas:
+## 📫 Contribuindo para nome-do-projeto
+Para contribuir com nome-do-projeto, siga estas etapas:
 
 1. Bifurque este repositório.
 2. Crie um branch: `git checkout -b <nome_branch>`.
