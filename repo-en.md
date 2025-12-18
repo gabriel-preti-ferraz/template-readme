@@ -1,4 +1,4 @@
-# Project Name
+# project-name
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/gabriel-preti-ferraz/project-name?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/gabriel-preti-ferraz/project-name?style=for-the-badge)
@@ -33,17 +33,17 @@ Before getting started, make sure you meet the following requirements:
 * You installed the latest version of `<language / dependency>`;
 * You have a `<Windows / Linux / Mac>` machine.
 
-## 🚀 Installing <project-name>
+## 🚀 Installing project-name
 
-To install <project-name>, follow these steps:
+To install project-name, follow these steps:
 
 * Click on `Code`;
 * Click on `Download ZIP`;
 * Extract the project.
 
-## ☕ Using <project-name>
+## ☕ Using project-name
 
-To use <project-name>, follow these steps:
+To use project-name, follow these steps:
 
 * Lorem `Lorem`;
 * Lorem `Lorem`;
@@ -54,13 +54,13 @@ To use <project-name>, follow these steps:
 
 Add execution commands and examples that you think users will find useful.
 
-## 📫 Contributing to CineVault
-To contribute to CineVault, follow these steps:
+## 📫 Contributing to project-name
+To contribute to project-name, follow these steps:
 
 1. Fortk this repository;
 2. Create a branch: `git checkout -b <branch_name>`;
 3. Make your changes and commit them: `git commit -m '<commit_message>'`;
-4. Push to the original branch: `git push origin CineVault / <local>`;
+4. Push to the original branch: `git push origin project-name / <local>`;
 5. Create a pull request.
 
 Alternatively, refer to GitHub’s documentation on [how to create a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
