@@ -5,11 +5,11 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/template-readme?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/template-readme?style=for-the-badge)
 
-<img src="exemplo-image.png">
+<img src="example-image.png">
 
 > Linha adicional de texto informativo sobre o que o projeto faz. Sua introdução deve ter cerca de 2 ou 3 linhas. Não exagere, as pessoas não vão ler.
 
-### Ajustes e melhorias
+### 🔧 Ajustes e melhorias
 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
@@ -18,6 +18,13 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Tarefa 3
 - [ ] Tarefa 4
 - [ ] Tarefa 5
+
+## 🧪 Tecnologias
+
+Aqui estão as tecnologias utilizadas neste projeto:
+* Tecnologia 1;
+* Tecnologia 2;
+* Tecnologia 3.
 
 ## 💻 Pré-requisitos
 
