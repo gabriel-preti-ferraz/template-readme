@@ -37,9 +37,8 @@ Before getting started, make sure you meet the following requirements:
 
 To install project-name, follow these steps:
 
-* Click on `Code`;
-* Click on `Download ZIP`;
-* Extract the project.
+* Clone the repository: `git clone https://github.com/gabriel-preti-ferraz/project-name`
+* Install dependencies: `command`
 
 ## ☕ Using project-name
 
