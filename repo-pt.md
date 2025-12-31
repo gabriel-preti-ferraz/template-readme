@@ -36,9 +36,8 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 Para instalar o nome-do-projeto, siga estas etapas:
 
-* Clique em `Code`;
-* Clique em `Download ZIP`;
-* Extraia o projeto;
+* Clone o repositório: `git clone https://github.com/gabriel-preti-ferraz/nome-do-projeto`
+* Instale as dependências: `comando`
 
 ## ☕ Usando nome-do-projeto
 
